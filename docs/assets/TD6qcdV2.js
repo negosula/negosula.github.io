@@ -1,0 +1,1 @@
+import{b as e,_ as o}from"./Uh9N9KAs.js";import{d as a,t as _,P as n,_ as s}from"./BeoOOkCy.js";const c=a({__name:"index",setup(r){return e(),(p,m)=>{const t=o;return _(),n(t)}}}),f=s(c,[["__scopeId","data-v-60ab98a9"]]);export{f as default};
